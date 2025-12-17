@@ -1,0 +1,95 @@
+#Horari {
+	width: 100%;
+        border-collapse: collapse;
+        font-family: sans-seriff;
+}
+
+#Horari th,
+#Horari td {
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: left;
+}
+
+#Horari thead {
+    background-color: #f2f2f2;
+}
+
+.cat{
+	background-color: #FF4148;
+        text-align: left !important;
+}
+
+.MA{
+        background-color: #46F2F9;
+        text-align: left !important;
+}
+
+.cast{
+        background-color: #FAFA5B;
+        text-align: left !important;
+}
+
+.ef{
+        background-color: #EF8BBB;
+        text-align: left !important;
+}
+
+.pro{
+        background-color: #DA9176;
+        text-align: left !important;
+}
+
+.ro{
+        background-color: #F8AE53;
+        text-align: left !important;
+}
+
+.hora{ 
+        background-color: #DFC57B;
+        text-align: left !important;
+}
+
+.mat{
+        background-color: #706CE3;
+        text-align: left !important;
+}
+
+.tec{
+        background-color: #FF9501;
+        text-align: left !important;
+}
+
+.filo{
+        background-color: #FD0775;
+        text-align: left !important;
+}
+
+.ang{
+        background-color: #E79EFC;
+        text-align: left !important;
+}
+
+.fi{
+        background-color: #78FA43;
+        text-align: left !important;
+}
+
+.tuto{
+        background-color: #F06F97;
+        text-align: left !important;
+}
+
+.es{
+        background-color: #D8CBF7;
+        text-align: left !important;
+}
+
+#Horari caption {
+   font-weight: bold;
+   margin-bottom: 10px;
+   caption-side: top;
+}
+<!-- Marc Burillo-->
+<!-- Programació curs 25-26-->
+<!-- Estil personalitzat-->
